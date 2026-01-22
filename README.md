@@ -3,7 +3,7 @@
 To analyze numerical data using Java arrays and perform operations like sum, average, min, max, and sorting.
 
 ## Tools Used
-- IntelliJ IDEA
+- jdk-25
 - Java 8+
 
 ## Concepts Covered
